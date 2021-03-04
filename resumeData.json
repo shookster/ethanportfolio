@@ -87,19 +87,19 @@
       {
         "title":"Elderberry Travel",
         "category":"travel app with COVID-19 tracker",
-        "image":"images/portfolio/e-t.png",
+        "image":"e-t.png",
         "url":"https://shookster.github.io/elderberry-travel/"
       },
       {
         "title":"Dad Jokes!",
         "category":"Dad joke generator and rating app",
-        "image":"images/portfolio/dadjokes.png",
+        "image":"dadjokes.png",
         "url":"vast-gorge-32848.herokuapp.com/"
       },
       {
         "title":"Twin Cities Foodshare",
         "category":"App to find and post locations in the Twin Cities giving free food for those who need it. Utilizes Google Maps api and Auth0.",
-        "image":"images/portfolio/screenshot-searchpage.png",
+        "image":"screenshot-searchpage.png",
         "url":"tc-foodshare.herokuapp.com/"
       }
     ]
